@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "741175502787",
+    "project_id": "test-729ff",
+    "storage_bucket": "test-729ff.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:741175502787:android:4f12eae0d41d3cdb393f76",
+        "android_client_info": {
+          "package_name": "com.dellwatson.test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "741175502787-5vkn7718mgknud25166vvbbaueg0q53d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dellwatson.test",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "741175502787-arbrpd9v0qejo9cv9tv92nqdirnr5nqa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDeLn5MtEgvRIcN5hEGHHU-e-d60acwTn4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "741175502787-arbrpd9v0qejo9cv9tv92nqdirnr5nqa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
